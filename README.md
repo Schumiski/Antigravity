@@ -1,1 +1,1 @@
-file:///C:/Users/Mschumiski/prompt-quest.html
+prompt-quest.html
